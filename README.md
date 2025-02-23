@@ -20,8 +20,7 @@ ReFoodify is an **innovative web platform** designed to facilitate food donation
    - Track **live donations** with real-time pickup and delivery updates.  
    - Check your **donation history** and impact statistics.  
 3. **Donate Food**:  
-   - Fill in details about the food items available for donation.  
-   - Select a registered **NGO or community kitchen** for the donation.  
+   - Fill in details about the food items available for donation.   
    - Set a pickup location and submit the request.  
 4. **Track Donations**:  
    - Monitor donation status and estimated pickup time.  
