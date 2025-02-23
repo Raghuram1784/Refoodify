@@ -27,4 +27,11 @@ ReFoodify is an **innovative web platform** designed to facilitate food donation
    - Receive notifications when the food is successfully picked up.  
 5. **Create/Join Campaigns**:  
    - Start a large-scale donation campaign to support a cause.  
-   - Join ongoing campaigns and contribute food or volunteer for deliveries.  
+   - Join ongoing campaigns and contribute food or volunteer for deliveries.
+  
+## Technologies Used  
+- **Frontend**: HTML, CSS, Bootstrap, JavaScript  
+- **Backend**: Node.js, Express.js  
+- **Database**: MySQL  
+- **APIs**: Google Maps API for real-time tracking  
+
