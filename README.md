@@ -31,7 +31,7 @@ ReFoodify is an **innovative web platform** designed to facilitate food donation
   
 ## Technologies Used  
 - **Frontend**: HTML, CSS, Bootstrap, JavaScript  
-- **Backend**: Node.js, Express.js  
+- **Backend**: Node.js  
 - **Database**: MySQL  
 - **APIs**: Google Maps API for real-time tracking  
 
